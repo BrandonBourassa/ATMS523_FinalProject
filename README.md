@@ -1,2 +1,4 @@
 # ATMS523_FinalProject
-This is the final project for the ATMS523 course that uses machine learning and feature importance to identify what climate indices are most impactful in influencing the intensity of Atmospheric Rivers at various latitudes along the west coast of North America.
+
+
+This project primarily employs machine learning techniques and feature importance analysis to investigate the relationship between climate indices and atmospheric river (AR) intensity in different latitudinal regions of the western United States. Machine learning algorithms, such as random forest regression, are utilized to model the influence of climate indices on AR intensity. Feature importance analysis is then conducted to identify the relative significance of each climate index in explaining variations in AR intensity. This approach allows for a data-driven understanding of the complex interactions between large-scale climate patterns and regional weather phenomena, ultimately contributing to improved forecasting and risk management strategies for AR-related hazards.
